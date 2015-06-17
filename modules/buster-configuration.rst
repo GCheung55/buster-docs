@@ -411,7 +411,7 @@ Content/file resources
 
 ``file``:
     File to serve. When ``file`` is set, you can not set ``combine`` or
-    ``content``.
+    ``content``. The ``file`` path is relative to the ``rootPath``.
 
 
 Proxy resources
